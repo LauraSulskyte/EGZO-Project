@@ -10,11 +10,11 @@ This repository contains my project work for **EGZOTIC SOS**:
 I’m interested in marketing roles where structured thinking and measurement matters:
 **goals → KPIs → budget → execution plan**.
 
-## What’s inside
-- `1_Gantt_Isamus_Grafikas.py` — generates a detailed Gantt chart (PDF)
-- `2_Strategija_ir_Problematika.py` — visuals for goals + problem framing
-- `3_Biudzetas_ir_KPI.py` — budget split + KPI visuals
-- PDFs with outputs (charts / visuals)
+## What's inside
+- [📊 Gantt Chart (PDF)](1_Gantt_Isamus_Grafikas.pdf) — generates a detailed Gantt chart
+- [📈 Strategy & Problems (PDF)](2_Strategija_ir_Problematika.pdf) — visuals for goals + problem framing
+- [🐍 Python Code (Gantt)](1_Gantt_Isamus_Grafikas.py) — script for Gantt visualization
+- [🐍 Python Code (KPIs)](3_Biudzetas_ir_KPI.py) — budget split + KPI visuals
 
 ## How to run
 ```bash
